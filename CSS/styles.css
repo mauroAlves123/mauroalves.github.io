@@ -181,10 +181,9 @@
   }
   
   .skills-box i {
-    font-size: 45px;
+    font-size: 50px;
     margin-right: 10px;
   }
- 
   
   /* Mobile */
   @media(max-width: 450px) {
